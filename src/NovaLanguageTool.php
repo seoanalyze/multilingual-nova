@@ -28,6 +28,8 @@ class NovaLanguageTool extends Tool
         return view('nova-language-tool::navigation');
     }
 
+    
+
 
 
 
